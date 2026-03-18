@@ -1,2 +1,2 @@
 # SmartCar
-PCB project file for our smart car
+PCB motherboard project file for our smart car
